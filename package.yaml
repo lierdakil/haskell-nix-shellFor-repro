@@ -1,0 +1,10 @@
+name:                hello
+version:             '0'
+
+dependencies:
+- base
+
+executables:
+  hello-exe:
+    main:                Main.hs
+    source-dirs:         './.'
